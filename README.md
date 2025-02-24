@@ -23,7 +23,7 @@ Ces erreurs sont uniquement visuelles et n'affectent pas le fonctionnement du co
 ## Installation et Utilisation
 
 ### Option 1 : Utilisation avec les fichiers précompilés
-1. Téléchargez le fichier PROJET_CALCULATRICE.zip
+1. Téléchargez le fichier Projet_Calculatrice-main.zip
 2. Décompressez l'archive dans le dossier de votre choix
 3. Si vous êtes sous Linux/Mac, donnez les droits d'exécution :
    ```bash
@@ -88,7 +88,7 @@ Dans la Partie 2, la méthode `valeur()` est implémentée de manière récursiv
 
 ## Structure du Projet
 ```
-PROJET_CALCULATRICE.zip/
+Projet_Calculatrice/
 ├── partie1/
 │   ├── src/    # Fichiers sources Java (.java)
 │   │   ├── operations1/
