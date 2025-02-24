@@ -17,9 +17,6 @@ Vérifiez que vous avez Java 11 ou supérieur installé :
 java -version  # Doit afficher Java 11 ou supérieur
 ```
 
-Note : Il est normal de voir parfois des erreurs de type "already defined" dans VS Code. 
-Ces erreurs sont uniquement visuelles et n'affectent pas le fonctionnement du code.
-
 ## Installation et Utilisation
 
 ### Option 1 : Utilisation avec les fichiers précompilés
